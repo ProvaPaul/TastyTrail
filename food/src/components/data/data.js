@@ -198,3 +198,56 @@ export const mealData=[
 
   }
 ]
+
+export const categories = [
+    {
+        id: 1,
+        name: 'pizza',
+        image: 'https://tse4.mm.bing.net/th?id=OIP.zgUL7CQyGao0J_TCRTXUCQHaFj&pid=Api&P=0&h=220'
+    },
+    {
+        id: 2,
+        name: 'chicken',
+        image: 'https://tse2.mm.bing.net/th?id=OIP.J-XZndIo36bbw7lgNYSWzgHaHa&pid=Api&P=0&h=220'
+    },
+    {
+        id: 3,
+        name: 'salad',
+        image: 'https://tse1.mm.bing.net/th?id=OIP.Wr_JY0U43bMb94EpaH9fBgHaEo&pid=Api&P=0&h=220'
+    },
+    {
+        id: 4,
+        name: 'juice',
+        image: 'https://tse1.mm.bing.net/th?id=OIP.Q80DZVHOilDo2D6pjXyxEgHaD4&pid=Api&P=0&h=220'
+    },
+    {
+        id: 5,
+        name: 'veggie wrap',
+        image: 'https://tse4.mm.bing.net/th?id=OIP.dFc9NOnJGMusmP1BXcUUxQHaE8&pid=Api&P=0&h=220'
+    },
+    {
+        id: 6,
+        name: 'sushi rolls',
+        image: 'https://tse4.mm.bing.net/th?id=OIP.YKVK_FcGSur8OkMDewl86QHaDt&pid=Api&P=0&h=220'
+    },
+    {
+        id: 7,
+        name: 'nachos',
+        image: 'https://tse4.mm.bing.net/th?id=OIP.jrsgsAzr9jFih9rGaYGZKgHaHa&pid=Api&P=0&h=220'
+    },
+    {
+        id: 8,
+        name: 'tacos',
+        image: 'https://tse4.mm.bing.net/th?id=OIP.-Kc-AWfWSgxV4GiUtu41gwHaEo&pid=Api&P=0&h=220'
+    },
+    {
+        id: 9,
+        name: 'pasta',
+        image: 'https://tse2.mm.bing.net/th?id=OIP.lt1GoCgYWR6ZjIbPuy4mJAHaEo&pid=Api&P=0&h=220'
+    },
+    {
+        id: 10,
+        name: 'fruit juice',
+        image: 'https://tse3.mm.bing.net/th?id=OIP.xRJIKPXBXpmzDDrsI1AteAHaFL&pid=Api&P=0&h=220'
+    }
+];
