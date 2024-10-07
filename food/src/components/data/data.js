@@ -74,13 +74,13 @@ export const mealData=[
         name:'loaded salad',
         category:'salad',
         image:'https://thefoodcharlatan.com/wp-content/uploads/2021/06/Loaded-Cobb-Salad-Recipe-with-Chicken-and-Bacon-11.jpg',
-        price: '$40',
+        price: '$48',
 
     },
     {
     id: 2,
     name: 'Chicken Shawarma Wrap',
-    category: 'shawarma',
+    category: 'chicken',
     image: 'https://tse3.mm.bing.net/th?id=OIP.ymSJBCvx-fMk76lEAstApwHaE7&pid=Api&P=0&h=220',
     price: '$34',
 
@@ -88,7 +88,7 @@ export const mealData=[
   {
     id: 3,
     name: 'Tropical Fruit Juice',
-    category: 'fruit juice',
+    category: 'juice',
     image: 'https://tse3.mm.bing.net/th?id=OIP.Df_c1f0a0GpHQWsL6xUjmQHaE7&pid=Api&P=0&h=220',
     price: '$43',
 
@@ -96,7 +96,7 @@ export const mealData=[
   {
     id: 4,
     name: 'Grilled Chicken Cheeseburger',
-    category: 'cheeseburger',
+    category: 'chicken',
     image: 'https://thumbs.dreamstime.com/b/big-grilled-chicken-burger-double-cutlet-cheese-wooden-background-side-view-close-up-208658240.jpg',
     price: '$45',
 
@@ -104,7 +104,7 @@ export const mealData=[
   {
     id: 5,
     name: 'Margherita Pizza',
-    category: 'pepperoni pizza',
+    category: 'pizza',
     image: 'https://wallup.net/wp-content/uploads/2017/11/22/371886-food-pizza.jpg',
     price: '$64',
 
@@ -112,7 +112,7 @@ export const mealData=[
   {
     id: 6,
     name: 'Crispy Fried Chicken',
-    category: 'fried chicken',
+    category: 'chicken',
     image: 'https://tse1.mm.bing.net/th?id=OIP.9o-HQRETo43_VoMxyzdJIAHaFj&pid=Api&P=0&h=220',
     price: '$74',
 
@@ -152,7 +152,7 @@ export const mealData=[
   {
     id: 11,
     name: 'Spicy Chicken Shawarma Plate',
-    category: 'shawarma',
+    category: 'chicken',
     image: 'https://tse4.mm.bing.net/th?id=OIP.PdWV_d-kqNitQM7JQ80iOgHaEL&pid=Api&P=0&h=220',
     price: '$54',
 

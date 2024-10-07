@@ -6,7 +6,7 @@ import '@splidejs/react-splide/css'; // Import Splide's default CSS
 const TopPicks = () => {
   return (
     <div>
-        <h1 className='text-orange-600 font-bold text-2xl text-center py-2'>Top Picks</h1>
+        <h1 className='text-orange-600 font-bold text-2xl text-center py-1'>Top Picks</h1>
         <div className='hidden lg:flex max-w[1500px] m-auto px-2 py-6 '>
             <Splide options={{ perPage:4, gap:'1rem',grag:'free',arrows:'false' }}>
                 {/* arrows false means last e arrow ta chole jabe */}
