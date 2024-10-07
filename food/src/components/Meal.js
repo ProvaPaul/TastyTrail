@@ -40,7 +40,7 @@ const Meal = () => {
                     <p className='bg-orange-600 h-18 w-18 rounded-full -mt-10 text-white py-4 px-2 border-8 font-bold'>{item.price}</p>
                     {/* mt-10 will put the price to the picture inside*/}
                     </div>
-                    <div className='pl-3 py-4 -mt-7'>
+                    <div className='pl-4 py-4 -mt-7'>
                     <p className='flex items-center text-blue-900'>View More<ArrowSmallRightIcon className='w-5 ml-2'/></p>
                     </div>
                     </div>
