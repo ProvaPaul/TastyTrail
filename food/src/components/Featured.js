@@ -12,9 +12,7 @@ const Featured=()=> {
         {
           url: 'https://tse4.mm.bing.net/th?id=OIP.m50vnaTLkgiUh_mC23yN4QHaE8&pid=Api&P=0&h=220',
         },
-        {
-          url: 'https://tse1.mm.bing.net/th?id=OIP.ftu0As12xDWj3mBXDZZUnwHaEK&pid=Api&P=0&h=220',
-        },
+        
         {
              url: 'https://thumbs.dreamstime.com/b/chicken-burger-french-fries-157318661.jpg',
         }
